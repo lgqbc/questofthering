@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quest of the Ring</string>
+    <string name="steps_today">Steps Today</string>
+    <string name="total_journey">Total Journey Steps</string>
+    <string name="current_location">Current Location</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="step_counter_permission">This app needs permission to access your step counter to track your journey through Middle-earth.</string>
+    <string name="grant_permission">Grant Permission</string>
+</resources>
